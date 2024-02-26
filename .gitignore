@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+env/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Local configuration and sensitive files
+*.log
+*.pot
+*.pyo
+*.swp
+*~
+.db.sqlite3
+settings_local.py
+.env
+secrets.json
+
+# Media and static directories
+media/
+staticfiles/
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# IDE specific files
+.idea/
